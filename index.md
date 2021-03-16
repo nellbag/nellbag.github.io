@@ -1,5 +1,11 @@
-Here you can say lots of fun things about your site.
+## Hello World!
 
-Maybe say a some things about yourself.
+This is my blog. 
 
-Or maybe what you plan to blog about.
+It is about hacking and computers and Cyber Security.
+
+I hope you enjoy it. 
+
+All the best when it comes. 
+
+Nelly
