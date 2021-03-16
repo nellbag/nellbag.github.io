@@ -1,5 +1,7 @@
 # "Unfortunately, we have selected another candidate."
 
+*Originally posted on my first blog 14/09/2020*
+
 When these words turn up in your inbox it feels like a bit of a gut punch. Especially if it is for something you REALLY wanted and put a lot of effort into. I am sure everyone has had rejections in their career, in any industry, they are to be expected. And although it doesn't feel great, the important thing is to look at the positives and learn from the experience. 
 
 > A rejection is nothing more than a necessary step in the pursuit of success. 
