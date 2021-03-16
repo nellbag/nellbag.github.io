@@ -18,7 +18,7 @@ One regret I do have though is rushing the last part of the exam. They give you 
 
 I did pass but in hindsight I wish I had taken that second day to reset my brain and go again to get a better pass mark. I know that a pass is still a pass but I would say if you have the time, then take your time. 
 
-There have been some changes to the PTS course that lead to the eJPT exam. You can now get the [Starter Pass from INE][4] for free and this is the same course I did and would recommend. You then just pay for an exam voucher with eLearn Security which is about $200/£145 (if you want to that is, nothing stopping you using the starter pass on it’s own just for fun and learning!) 
+There have been some changes to the PTS course that lead to the eJPT exam. You can now get the [Starter Pass from INE][16] for free and this is the same course I did and would recommend. You then just pay for an exam voucher with eLearn Security which is about $200/£145 (if you want to that is, nothing stopping you using the starter pass on it’s own just for fun and learning!) 
 
 ## I'm blue, da ba dee da ba daa
 
@@ -111,3 +111,4 @@ Nelly
 [13]: https://github.com/nellbag/scripts/blob/main/cewl.sh
 [14]: https://github.com/digininja/CeWL
 [15]: https://hashcat.net/wiki/doku.php?id=rule_based_attack
+[16]: https://checkout.ine.com/starter-pass
