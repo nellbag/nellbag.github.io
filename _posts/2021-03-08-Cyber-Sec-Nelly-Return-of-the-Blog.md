@@ -12,7 +12,7 @@ OK on to some updates………
 
 I passed the [eJPT!!][3] I was going to do a separate blog post on the eJPT exam but to be honest there is not much more I can add to all the other resources already out there. I will say that the exam format was great, without giving too much away it was set up like a real network and you had to answer questions that you could only get by enumerating and exploiting machines. 
 
-<img src="C:\Users\nellb\.another DESKTOP\Coding\Hacking\PTSv4\Exam\ejpt_cert.png" style="zoom:50%;" />
+<img src="https://github.com/nellbag/nellbag.github.io/blob/main/images/ejpt_cert.png" style="zoom:50%;" />
 
 One regret I do have though is rushing the last part of the exam. They give you 72 hours to complete it, which is more than enough time. I took two days' annual leave from work and set aside time from 9am to ~5pm both days to do the exam. By the end of the first day I was pretty sure I had enough points to pass and I just submitted my answers knowing I had free retakes if I failed. 
 
@@ -36,7 +36,7 @@ You complete these challenges by finding flags, which are usually just a string 
 
 My first event was the [Tenable CTF][8] which was actually the first one they put on as well, this is the same Tenable that own Nessus which is a vulnerability scanner used quite a lot in Cyber Security. I came a respectable 675th out of 1762 competitors which I was really happy with considering it was my first one. This happiness was short lived when I signed up for loads more events and didn't do so well! I registered for Aero CTF and zer0pts CTF but both were a bit beyond my skill level. 
 
-<img src="C:\Users\nellb\.another DESKTOP\Coding\Hacking\CTF & Events\CTFTime_nellbag.png" style="zoom:75%;" />
+<img src="https://github.com/nellbag/nellbag.github.io/blob/main/images/CTFTime_nellbag.png" style="zoom:75%;" />
 
 More recently I was very much looking forward to [Nahamcon2021 CTF][9] which was built by [John Hammond][10] and his team, the set up for this event was great and I was really looking forward to it but I never really got a chance to play, too much IRL things going on that weekend! I was a bit disappointed as I think there were some more beginner friendly challenges in this one that I might have been able to do. I am sure there will be more opportunities like this though and I enjoyed reading write-ups and [watching videos][11] from the event.  
 
@@ -94,13 +94,7 @@ Nelly
 
 (Oh I will also be transferring my old blog posts over so you may see them pop up at some point)
 
-
-
 ---
-
- 
-
-References:
 
 [1]: https://pages.github.com/
 [2]: https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html
@@ -117,22 +111,3 @@ References:
 [13]: https://github.com/nellbag/scripts/blob/main/cewl.sh
 [14]: https://github.com/digininja/CeWL
 [15]: https://hashcat.net/wiki/doku.php?id=rule_based_attack
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
