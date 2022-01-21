@@ -7,9 +7,10 @@ I hope you enjoy it.
 
 ### About Me
 
-* I am a hacker looking to break into the Cyber Security industry.
+* ~~I am a hacker looking to break into the Cyber Security industry.~~
+* I now work as a Cyber Security Assurance Officer!!
 * eJPT (eLearn Security Junior Penetration Tester) certified.
-* I currently work as an Analyst Programmer with a focus on Databases.
+* ~~I currently work as an Analyst Programmer with a focus on Databases.~~
 * I currently live in Scotland.
 * I am a Dad and husband.
 * Other than hacking, programming and cyber stuff I like D&D, lockpicking, beer,  the gym and pool.
